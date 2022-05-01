@@ -1,4 +1,4 @@
-## Welcome to DataGrad
+# Welcome to DataGrad
 
 Please check my latest works related to Data Science!
 
