@@ -1,3 +1,5 @@
+![DataGrad ](https://user-images.githubusercontent.com/73750698/166157759-08bba4b3-23f6-4c6c-bd8a-b6d554390b14.png)
+
 ## Welcome to DataGrad
 
 Please check my latest works related to Data Science!
