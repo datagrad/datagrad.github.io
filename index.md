@@ -2,7 +2,7 @@
 
 Please check my latest works related to Data Science!
 
-[A Case Study on IMDB Dataset] (https://datagrad.github.io/IMDB-Analysis-in-SQL/)
+[A Case Study on IMDB Dataset](https://datagrad.github.io/IMDB-Analysis-in-SQL/)
 
 You can use the [editor on GitHub](https://github.com/datagrad/datagrad.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
