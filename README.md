@@ -1,11 +1,3 @@
----
-title: Howto
-layout: page
-permalink: /about.html
----
-
-
-
 # datagrad.github.io
 
 I have been a bit Lazy to update this, but you can visit this great site https://datagrad.github.io/
