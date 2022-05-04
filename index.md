@@ -27,15 +27,15 @@ I have been a bit Lazy to update this lately, but you can visit this [Great Site
 </p>
 <br>
 
-> [LinkedIn](https://www.linkedin.com/in/jhakamal/)
+## [LinkedIn](https://www.linkedin.com/in/jhakamal/)
 
 <br>
 
-> [Medium](https://datagrad.medium.com/)
+## [Medium](https://datagrad.medium.com/)
 
 <br>
 
-> [Tableau Public](https://public.tableau.com/app/profile/datagrad)
+## [Tableau Public](https://public.tableau.com/app/profile/datagrad)
 
 <br>
 <br>
