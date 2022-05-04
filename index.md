@@ -25,27 +25,15 @@
 
 ## [LinkedIn](https://www.linkedin.com/in/jhakamal/)
 
-<br>
-
 ## [Medium](https://datagrad.medium.com/)
-
-<br>
 
 ## [Tableau Public](https://public.tableau.com/app/profile/datagrad)
 
 <br>
-<br>
-<br>
-
 
 - 🌱 Grooming myself into a Data Sciene Expert who loves to listen the story behind each datapoint 
 
 - 👯 I’m looking to collaborate on any kind of Data Science and Technical Writing project.
-
-
-
-<br>
-<br>
 
 <br>
 
