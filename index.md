@@ -6,7 +6,9 @@
 I have been a bit Lazy to update this lately, but you can visit this [Great Site](https://datagrad.github.io/)
 
    
-<h3 align="center">*My name is Kamal Kumar, a Technical Writer by Profession, developing my programming skills in order to exploit data.*</h3>
+<h3 align="center"> I am is Kamal Kumar,
+   a Technical Consultant by Profession,
+   developing my Sata Science skills to exploit data and translate their stories.</h3>
 
 <h3 align="center">📚 Been exposed to these technologies: 📚</h3>
 <p align="center">
@@ -20,7 +22,7 @@ I have been a bit Lazy to update this lately, but you can visit this [Great Site
 <h3 align="center">🌈 Let’s connect! 🌈</h3>
 <p align="center"> 
   <a href="mailto:aerokamal1993@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=aerokamal1993@gmail.com"/></a> 
-  <a href="https://www.instagram.com/guy_on_interceptor/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/guy_on_interceptor/"/>
+  <a href="https://www.instagram.com/guy_on_interceptor/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/guy_on_interceptor/"/></a> 
  
 </p>
    <h3 align="center">[LinkedIn](https://www.linkedin.com/in/jhakamal/) </h3>
@@ -33,6 +35,8 @@ I have been a bit Lazy to update this lately, but you can visit this [Great Site
 - 🌱 Grooming myself into a Data Sciene Expert who loves to listen the story behind each datapoint 
 
 - 👯 I’m looking to collaborate on any kind of Data Science and Technical Writing project.
+
+
 
 
 
