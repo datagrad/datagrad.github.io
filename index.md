@@ -1,4 +1,4 @@
-# DataGrad
+<h1 align="center"> DataGrad</h1>
 
 ![Kamal Kumar - Business Intelligence   Data Analyst](https://user-images.githubusercontent.com/73750698/165881079-7dbd5acb-5741-4a93-bf17-803ceeb56af8.png)
    
