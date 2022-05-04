@@ -25,17 +25,18 @@ I have been a bit Lazy to update this lately, but you can visit this [Great Site
   <a href="https://www.instagram.com/guy_on_interceptor/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/guy_on_interceptor/"/></a> 
  
 </p>
-   <h3 align="center">[LinkedIn](https://www.linkedin.com/in/jhakamal/) </h3>
-      <h3 align="center">[Medium](https://datagrad.medium.com/) </h3>
-      <h3 align="center">[Tableau Public](https://public.tableau.com/app/profile/datagrad) </h3>
 
+> [LinkedIn](https://www.linkedin.com/in/jhakamal/)
+
+> [Medium](https://datagrad.medium.com/)
+
+> [Tableau Public](https://public.tableau.com/app/profile/datagrad)
 
 
 
 - 🌱 Grooming myself into a Data Sciene Expert who loves to listen the story behind each datapoint 
 
 - 👯 I’m looking to collaborate on any kind of Data Science and Technical Writing project.
-
 
 
 
