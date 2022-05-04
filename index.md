@@ -1,14 +1,9 @@
 ![Kamal Kumar - Business Intelligence   Data Analyst](https://user-images.githubusercontent.com/73750698/165881079-7dbd5acb-5741-4a93-bf17-803ceeb56af8.png)
-
-<h3 align="center">*Hi there, welcome to my GitHub account!* </h3>
-
-
-I have been a bit Lazy to update this lately, but you can visit this [Great Site](https://datagrad.github.io/)
-
    
-<h3 align="center"> I am is Kamal Kumar,
-   a Technical Consultant by Profession,
-   developing my Sata Science skills to exploit data and translate their stories.</h3>
+<h3 align="center"> I am Kamal Kumar,</h3>
+<h3 align="center"> a Technical Consultant by Profession,</h3>
+<h3 align="center"> developing my Sata Science skills to exploit data and translate their stories.</h3>
+
 
 <h3 align="center">📚 Been exposed to these technologies: 📚</h3>
 <p align="center">
@@ -18,6 +13,7 @@ I have been a bit Lazy to update this lately, but you can visit this [Great Site
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
    
 </p>
+
 
 <h3 align="center">🌈 Let’s connect! 🌈</h3>
 <p align="center"> 
