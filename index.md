@@ -41,6 +41,8 @@ I have been a bit Lazy to update this lately, but you can visit this [Great Site
 
 
 
+<br>
+
 Please check my latest works related to Data Science!
 
 ### [A Case Study on IMDB Dataset](https://datagrad.github.io/IMDB-Analysis-in-SQL/)
