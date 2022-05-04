@@ -25,13 +25,15 @@ I have been a bit Lazy to update this lately, but you can visit this [Great Site
   <a href="https://www.instagram.com/guy_on_interceptor/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/guy_on_interceptor/"/></a> 
  
 </p>
-
+<br>
 > [LinkedIn](https://www.linkedin.com/in/jhakamal/)
-
+<br>
 > [Medium](https://datagrad.medium.com/)
-
+<br>
 > [Tableau Public](https://public.tableau.com/app/profile/datagrad)
-
+<br>
+<br>
+<br>
 
 
 - 🌱 Grooming myself into a Data Sciene Expert who loves to listen the story behind each datapoint 
@@ -40,6 +42,8 @@ I have been a bit Lazy to update this lately, but you can visit this [Great Site
 
 
 
+<br>
+<br>
 
 <br>
 
